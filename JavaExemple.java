@@ -6,6 +6,7 @@ public class JavaExemple{
 		test();
 		test2();
 		test3();
+		test4();
 	}
 	
 	public static void test(){
