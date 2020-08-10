@@ -4,4 +4,8 @@ public class JavaExemple{
 		System.out.println("Hello World");
 		System.out.println("il devient logique que cela fonctionne");
 	}
+	
+	public static void Test(){
+		System.out.println("Méthode non utilisée");	
+	}
 }
