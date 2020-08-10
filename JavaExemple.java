@@ -5,6 +5,7 @@ public class JavaExemple{
 		System.out.println("il devient logique que cela fonctionne");
 		test();
 		test2();
+		test3();
 	}
 	
 	public static void test(){
