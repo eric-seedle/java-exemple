@@ -4,6 +4,7 @@ public class JavaExemple{
 		System.out.println("Hello World");
 		System.out.println("il devient logique que cela fonctionne");
 		test();
+		test2();
 	}
 	
 	public static void test(){
@@ -12,5 +13,9 @@ public class JavaExemple{
 	
 	public static void test2(){
 		System.out.println("Méthode test2");	
+	}
+	
+	public static void test3(){
+		System.out.println("Méthode test3");	
 	}
 }
