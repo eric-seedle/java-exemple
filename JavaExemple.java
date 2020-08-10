@@ -19,4 +19,8 @@ public class JavaExemple{
 	public static void test3(){
 		System.out.println("Méthode test3");	
 	}
+	
+	public static void test4(){
+		System.out.println("Méthode test4");	
+	}
 }
